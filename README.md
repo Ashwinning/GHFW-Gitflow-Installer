@@ -30,9 +30,11 @@ Check that GitFlow is installed by calling the help:
 GitHub for Windows auto-updates itself, and when it does, you may lose GitFlow. 
 This repository contains the PowerShell script from `nvie/gitflow` which can be used to re-install things quickly.
 
-To update :
-
 Clone or download this repository.
+
+Run `Powershell` as administrator.
+
+Change execution policy by running `Set-ExecutionPolicy Unrestricted`.
 
 Run `Update.ps1`.
 
