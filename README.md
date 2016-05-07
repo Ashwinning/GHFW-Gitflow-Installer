@@ -1,5 +1,5 @@
 # GHFW-Gitflow-Installer
-Installs [Git Flow](https://github.com/nvie/gitflow/wiki/Windows) on [GitHub for Windows](https://desktop.github.com/).
+This repository contains scripts and the required binary dependencies to install [Git Flow](https://github.com/nvie/gitflow/wiki/Windows) on [GitHub for Windows](https://desktop.github.com/).
 
 ## Installation Instructions
 Clone or download this repository.
